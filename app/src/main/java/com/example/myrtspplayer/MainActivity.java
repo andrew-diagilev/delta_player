@@ -1,4 +1,4 @@
-package com.example.myrtspplayer;
+ package com.example.myrtspplayer;
 
 import android.app.Activity;
 import android.content.Intent;
